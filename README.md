@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de ejemplo del modulo 2 
+este es un ejemplo de como crear y clonar un repositorio en forma local
